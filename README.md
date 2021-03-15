@@ -6,9 +6,9 @@
 - ⚡ Fun fact: I finished a five-year-long piano course and I enjoy playing airsoft;
 - 📃 [Read my resume.](https://github.com/ga-tardochisalles/ga-tardochisalles/raw/main/Gabriel%20Tardochi%20Salles%20-%20Data%20Scientist.pdf)  
 ### Portfolio Projects ✔️
-* A
-* B
-* C
+##### A
+##### B
+##### C
 ### Contacts & Social Media 👋
 [<img src="https://logodix.com/logo/79569.png" width="75" height="75">](http://www.linkedin.com/in/gabriel-tardochi-salles-a1653a193) 
 [<img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="75" height="75">](https://github.com/ga-tardochisalles) 
