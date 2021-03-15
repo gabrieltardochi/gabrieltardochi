@@ -5,7 +5,14 @@
 - 🥅 2021 Goals: score medals on Kaggle competitions and work on meaningful projects;
 - ⚡ Fun fact: I finished a five-year-long piano course and I enjoy playing airsoft;
 - 📃 [Read my resume.](https://github.com/ga-tardochisalles/ga-tardochisalles/raw/main/Gabriel%20Tardochi%20Salles%20-%20Data%20Scientist.pdf)  
-
+### Portfolio Projects ✔️
+#### [Food Delivery ChatBot demo](https://github.com/ga-tardochisalles/food-delivery-chatbot-nlp-and-deep-learning)
+Deep Neural Network(ChatBot) deployed on heroku. Chat with It here(might take a few seconds to load): https://nlp-food-delivery-chatbot.herokuapp.com/
+####
+####
+####
+####
+####
 ### Contacts & Social Media 👋
 [<img src="https://logodix.com/logo/79569.png" width="75" height="75">](http://www.linkedin.com/in/gabriel-tardochi-salles-a1653a193) 
 [<img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="75" height="75">](https://github.com/ga-tardochisalles) 
