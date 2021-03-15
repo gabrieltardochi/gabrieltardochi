@@ -1,11 +1,11 @@
-### Hi there, I'm Gabriel Tardochi Salles 👋
+## Hi there, I'm Gabriel Tardochi Salles 👋
 - 👶 Born on São Paulo, SP - Brazil;
 - 🌱 I’m currently focusing on studying Machine Learning, Deep Learning and Cloud Computing;
 - 👯 I’m looking to collaborate with others on projects;
 - 🥅 2021 Goals: score medals on Kaggle competitions and work on meaningful projects;
 - ⚡ Fun fact: I finished a five-year-long piano course and I enjoy playing airsoft;
 - 📃 [Read my resume.](https://github.com/ga-tardochisalles/ga-tardochisalles/raw/main/Gabriel%20Tardochi%20Salles%20-%20Data%20Scientist.pdf)  
-### Portfolio Projects ✔️
+## Portfolio Projects ✔️
 All of them are under constant improvements, and there will be many more to come. If you saw something that I could have done better in one of those, please contact me with your priceless tips!
 #### [Food Delivery ChatBot](https://github.com/ga-tardochisalles/food-delivery-chatbot-nlp-and-deep-learning)
 * Deep Neural Network(ChatBot) deployed on heroku. Chat with It here(might take a few seconds to load): https://nlp-food-delivery-chatbot.herokuapp.com/
@@ -19,7 +19,7 @@ All of them are under constant improvements, and there will be many more to come
 * Fine tuning BERT Model to classify movie reviews positivism in a [0,1] range, where 0 is extremely negative and 1 is extremely positive.
 #### [Recommender System with DeepLearning](https://github.com/ga-tardochisalles/recommender-system-with-deeplearning)
 * Building a movie recommender based on previously ratings on movies by user.
-### Contacts & Social Media 👋
+## Contacts & Social Media 👋
 [<img src="https://logodix.com/logo/79569.png" width="75" height="75">](http://www.linkedin.com/in/gabriel-tardochi-salles-a1653a193) 
 [<img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="75" height="75">](https://github.com/ga-tardochisalles) 
 [<img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" width="75" height="75">](https://ga-tardochisalles.medium.com/)  
