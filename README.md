@@ -1,6 +1,6 @@
 ## Hi there, I'm Gabriel Tardochi Salles 👋
 - 👶 Born in São Paulo, SP - Brazil;
-- 🌱 I’m currently focusing on studying Machine Learning, Deep Learning and Cloud Computing;
+- 🌱 I’m currently focused on Machine Learning, Deep Learning and Cloud Computing;
 - 👯 I’m looking to collaborate with others on projects;
 - 🥅 2021 Goals: score medals on Kaggle competitions and work on meaningful projects;
 - ⚡ Fun fact: I finished a five-year-long piano course and I enjoy playing airsoft;
