@@ -15,6 +15,8 @@ All of them are under constant improvements, and there will be many more to come
 * Analysing the BOVA11 exchange-traded fund stocks composition and behaviour during a set period of time.
 #### [Multiclass Image Classification on CIFAR10 Dataset](https://github.com/ga-tardochisalles/pytorch-img-classification-cifar10)
 * Building a Convolutional Neural Network to classify images on ten different classes.
+#### [DeepLearning and Data Analysis on Customer Satisfaction using the Brazilian E-Commerce Public Dataset by Olist](https://github.com/ga-tardochisalles/olist-ecommerce-dataset)
+* A customer satisfaction analysis on brazilian e-commerce data using DeepLearning and visualization tools.
 #### [NLP BERT Sentiment Analysis on Movie Reviews](https://github.com/ga-tardochisalles/nlp-bert-sentiment-analysis-on-movies)
 * Fine tuning BERT Model to classify movie reviews positivism in a [0,1] range, where 0 is extremely negative and 1 is extremely positive.
 #### [Recommender System with DeepLearning](https://github.com/ga-tardochisalles/recommender-system-with-deeplearning)
