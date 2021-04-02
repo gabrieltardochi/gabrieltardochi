@@ -21,6 +21,8 @@ All of them are under constant improvements, and there will be many more to come
 * Fine tuning BERT Model to classify movie reviews positivism in a [0,1] range, where 0 is extremely negative and 1 is extremely positive.
 #### [Recommender System with DeepLearning](https://github.com/ga-tardochisalles/recommender-system-with-deeplearning)
 * Building a movie recommender based on previously ratings on movies by user.
+#### [Concluded DataCamp Data Science Projects](https://github.com/ga-tardochisalles/Concluded-DataCamp-Projects)
+* Repo to store my already completed Data Science projects at DataCamp. They tackle various different topics, such as Machine Learning, Data Cleaning, Data Analysis, etc.
 ## Contacts & Social Media 👋
 [<img src="https://logodix.com/logo/79569.png" width="75" height="75">](http://www.linkedin.com/in/gabriel-tardochi-salles-a1653a193) 
 [<img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="75" height="75">](https://github.com/ga-tardochisalles) 
