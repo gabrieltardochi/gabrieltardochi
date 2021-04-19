@@ -17,6 +17,8 @@ All of them are under constant improvements, and there will be many more to come
 * Building a Convolutional Neural Network to classify images on ten different classes.
 #### [DeepLearning and Data Analysis on the Brazilian E-Commerce Public Dataset by Olist](https://github.com/ga-tardochisalles/olist-ecommerce-dataset)
 * A customer satisfaction analysis on brazilian e-commerce data using DeepLearning and visualization tools.
+#### [Online Retail Customer Segmentation and Product Recommendation](https://github.com/ga-tardochisalles/online-retail-customer-segregation)
+* Applying cohort analysis, RFM segmentation and Machine Learning to Cluster customers and extract insights from their personas. Using ALS Algorithm to build a recommender system as well.
 #### [NLP BERT Sentiment Analysis on Movie Reviews](https://github.com/ga-tardochisalles/nlp-bert-sentiment-analysis-on-movies)
 * Fine tuning BERT Model to classify movie reviews positivism in a [0,1] range, where 0 is extremely negative and 1 is extremely positive.
 #### [Recommender System with DeepLearning](https://github.com/ga-tardochisalles/recommender-system-with-deeplearning)
