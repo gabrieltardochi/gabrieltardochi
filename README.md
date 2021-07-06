@@ -1,6 +1,6 @@
 ## Hi there, I'm Gabriel Tardochi Salles 👋
 - 👶 Born in São Paulo, SP - Brazil;
-- 🌱 Machine Learning, Deep Learning and Cloud Computing are areas of interest;
+- 🌱 Machine Learning, Deep Learning and Cloud Computing are areas of great interest;
 - :star: Active Kaggler ([kaggle profile](https://www.kaggle.com/gabrieltardochi));
 - 🥅 2021 Goals: score medals on Kaggle competitions and work on meaningful projects;
 - ⚡ Fun fact: I finished a five-year-long piano course and I enjoy playing airsoft;
