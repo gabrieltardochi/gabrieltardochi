@@ -4,7 +4,7 @@
 - 💙 Natural Language Processing and Computer Vision specialist.
 - 📃 View my [resume](https://github.com/ga-tardochisalles/ga-tardochisalles/raw/main/Gabriel%20Tardochi%20Salles%20-%20Data%20Scientist.pdf)(last updated on April 2021).  
 ## Portfolio Projects ✔️
-All of them are under constant improvements, and there will be many more to come. If you saw something that I could have done better in one of those, please contact me with your priceless tips!
+All of them are under constant improvement, and there will be many more to come. If you saw something that I could have done better in one of those, please contact me with your priceless tips!
 #### [Food Delivery ChatBot](https://github.com/ga-tardochisalles/food-delivery-chatbot-nlp-and-deep-learning)
 * Deep Neural Network(ChatBot) deployed on heroku. Chat with It here(might take a few seconds to load): https://nlp-food-delivery-chatbot.herokuapp.com/
 #### [Covid World Vaccination Progress](https://github.com/ga-tardochisalles/covid-world-vaccination-progress)
