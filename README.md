@@ -1,10 +1,8 @@
 ## Hi there, I'm Gabriel Tardochi Salles 👋
 - 👶 Born in São Paulo, SP - Brazil;
-- 🌱 Machine Learning, Deep Learning and Cloud Computing are areas of great interest;
-- :star: Active Kaggler ([kaggle profile](https://www.kaggle.com/gabrieltardochi));
-- 🥅 2021 Goals: score medals on Kaggle competitions and work on meaningful projects;
-- ⚡ Fun fact: I finished a five-year-long piano course and I enjoy playing airsoft;
-- 📃 View my [resume](https://github.com/ga-tardochisalles/ga-tardochisalles/raw/main/Gabriel%20Tardochi%20Salles%20-%20Data%20Scientist.pdf).  
+- 🌱 Full-Stack Data Scientist, providing scalable, end-to-end machine learning and deep learning solutions;  
+- 💙 Natural Language Processing and Computer Vision specialist.
+- 📃 View my [resume](https://github.com/ga-tardochisalles/ga-tardochisalles/raw/main/Gabriel%20Tardochi%20Salles%20-%20Data%20Scientist.pdf)(last updated on March 2021).  
 ## Portfolio Projects ✔️
 All of them are under constant improvements, and there will be many more to come. If you saw something that I could have done better in one of those, please contact me with your priceless tips!
 #### [Food Delivery ChatBot](https://github.com/ga-tardochisalles/food-delivery-chatbot-nlp-and-deep-learning)
