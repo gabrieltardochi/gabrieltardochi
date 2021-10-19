@@ -2,7 +2,7 @@
 - 👶 Born in São Paulo, SP - Brazil;
 - 🧑‍🔬 Full-Stack Data Scientist, providing scalable, end-to-end machine learning and deep learning solutions;  
 - 💙 Natural Language Processing and Computer Vision specialist.
-- 📃 View my [resume](https://github.com/ga-tardochisalles/ga-tardochisalles/raw/main/Gabriel%20Tardochi%20Salles%20-%20Data%20Scientist.pdf)(last updated on March 2021).  
+- 📃 View my [resume](https://github.com/ga-tardochisalles/ga-tardochisalles/raw/main/Gabriel%20Tardochi%20Salles%20-%20Data%20Scientist.pdf)(last updated on April 2021).  
 ## Portfolio Projects ✔️
 All of them are under constant improvements, and there will be many more to come. If you saw something that I could have done better in one of those, please contact me with your priceless tips!
 #### [Food Delivery ChatBot](https://github.com/ga-tardochisalles/food-delivery-chatbot-nlp-and-deep-learning)
