@@ -1,6 +1,6 @@
 ## Hi there, I'm Gabriel Tardochi Salles 👋
 - 👶 Born in São Paulo, SP - Brazil;
-- 🧑‍🔬 Full-Stack Data Scientist, providing scalable, end-to-end machine learning and deep learning solutions;  
+- 🧑‍🔬 Full Stack Data Scientist, providing scalable, end-to-end machine learning and deep learning solutions;  
 - 💙 Natural Language Processing and Computer Vision specialist.
 - 📃 View my [resume](https://github.com/ga-tardochisalles/ga-tardochisalles/raw/main/Gabriel%20Tardochi%20Salles%20-%20Data%20Scientist.pdf)(last updated on April 2021).  
 ## Portfolio Projects ✔️
