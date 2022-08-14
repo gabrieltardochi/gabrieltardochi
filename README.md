@@ -24,7 +24,7 @@ All of them are under constant improvement, and there will be many more to come.
 #### [Concluded DataCamp Data Science Projects](https://github.com/ga-tardochisalles/Concluded-DataCamp-Projects)
 * Repo to store my already completed Data Science projects at DataCamp. They tackle various different topics, such as Machine Learning, Data Cleaning, Data Analysis, etc.
 ## Contacts & Social Media 👋
-[<img src="https://logodix.com/logo/79569.png" width="75" height="75">](http://www.linkedin.com/in/gabriel-tardochi-salles-a1653a193) 
-[<img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" width="75" height="75">](https://ga-tardochisalles.medium.com/)
-[<img src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" width="75" height="75">](https://www.kaggle.com/gabrieltardochi)  
+[<img src="https://logodix.com/logo/79569.png" width="75" height="75">](https://www.linkedin.com/in/gabrieltardochisalles/) 
+[<img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" width="75" height="75">](https://gabrieltardochi.medium.com/)
+[<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" width="75" height="75">](https://www.kaggle.com/gabrieltardochi)  
 Email: ga.tardochisalles@gmail.com
