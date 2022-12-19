@@ -2,7 +2,7 @@
 - 👶 Born in São Paulo, SP - Brazil;
 - 🧑‍🔬 Full Stack Data Scientist, providing scalable, end-to-end machine learning and deep learning solutions;  
 - 💙 Natural Language Processing and Computer Vision specialist;
-- 📃 View my [resume](https://github.com/ga-tardochisalles/ga-tardochisalles/blob/main/CV_GabrielTardochiSalles_2022-07.pdf).  
+- 📃 View my [resume](https://github.com/ga-tardochisalles/ga-tardochisalles/blob/main/CV_GabrielTardochiSalles_2022-07.docx.pdf).  
 ## Portfolio Projects ✔️
 All of them are under constant improvement, and there will be many more to come. If you saw something that I could have done better in one of those, please contact me with your priceless tips!
 #### [DeepLearning and Data Analysis on the Brazilian E-Commerce Public Dataset by Olist](https://github.com/ga-tardochisalles/olist-ecommerce-dataset)
