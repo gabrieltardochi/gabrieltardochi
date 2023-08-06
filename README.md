@@ -2,7 +2,7 @@
 - 👶 Born in São Paulo, SP - Brazil;
 - 🧑‍🔬 Full Stack Data Scientist, providing scalable, end-to-end machine learning and deep learning solutions for complex problems;  
 - 💙 Natural Language Processing and Computer Vision specialist;
-- 📃 View my [resume](https://github.com/ga-tardochisalles/ga-tardochisalles/blob/main/CV_GabrielTardochiSalles_2022-07.docx.pdf).  
+- 📃 View my [resume](https://github.com/ga-tardochisalles/ga-tardochisalles/blob/main/CV_GabrielTardochiSalles_2023-03.pdf).  
 
 ## Contacts & Social Media
 Let's [connect](https://www.linkedin.com/in/gabrieltardochisalles/)! I also happen to have a [medium page](https://gabrieltardochi.medium.com/) where I share data-related stuff.  
