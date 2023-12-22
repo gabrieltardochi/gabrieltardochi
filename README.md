@@ -5,7 +5,7 @@
 🚀 Machine Learning Engineer (3.5+ years)<br />
 💙 MLOps, Natural Language Processing and Computer Vision<br />
 ☁️ [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/2207e8e0-ecaf-445b-8e14-1b9f11e7d6e6/linked_in_profile)<br />
-📃 [Resume](https://github.com/ga-tardochisalles/ga-tardochisalles/blob/main/CV_GabrielTardochiSalles_2023-03.pdf)
+📃 [Resume](https://github.com/ga-tardochisalles/ga-tardochisalles/blob/main/Resume-Gabriel-Tardochi-Salles-202312.pdf)
 
 ### Main languages, frameworks and technologies
 * Python, SQL, C++, Apache Spark, Pandas, Scikit-learn, PyTorch, TensorFlow, Hugging Face, Flask, FastAPI, Prompt Engineering
