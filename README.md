@@ -3,7 +3,7 @@
 💻 Bachelor's degree, Computer Science<br />
 🌱 Born in São Paulo, SP - Brazil<br />
 🚀 Experienced Machine Learning Engineer (4+ years)<br />
-💙 MLOps, Natural Language Processing and Computer Vision<br />
+💙 ML Engineering, MLOps, Natural Language Processing and Computer Vision<br />
 ☁️ [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/2207e8e0-ecaf-445b-8e14-1b9f11e7d6e6/linked_in_profile)<br />
 📃 [Resume](https://github.com/ga-tardochisalles/ga-tardochisalles/blob/main/Resume-Gabriel-Tardochi-Salles-202312.pdf)
 
