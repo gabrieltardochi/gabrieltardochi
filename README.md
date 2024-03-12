@@ -15,6 +15,6 @@ I also (try to) write about ML-related topics on [Medium](https://gabrieltardoch
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/gabrieltardochisalles/)
-- [E-mail](ga.tardochisalles@gmail.com) 
+- E-mail: ga.tardochisalles@gmail.com 
 
 Let's connect and build awesome things together! 🤖✨
