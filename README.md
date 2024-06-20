@@ -1,7 +1,4 @@
 # Hey there! 👋
-
-I'm Gabriel Tardochi Salles, an experienced Machine Learning Engineer passionate about efficiently delivering intelligent systems.
-
 Welcome to my GitHub profile!
 - 🌱 Born in: São Paulo, SP, Brazil
 - 💼 Currently working on: ML Engineering at Itaú
